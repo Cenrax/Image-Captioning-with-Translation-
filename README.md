@@ -18,3 +18,5 @@ Image Captioning is one of the most basic application of Natural Language Proces
 1) ICT can be used as an additional attachment for the blind stick where the person can get accurate captions along with the directions given by the blind stick.
 
 2) Moreover it can be used as a fun project for demonstrating and understanding the essence of Natural Language Processing.
+
+![](Output/res.png)
